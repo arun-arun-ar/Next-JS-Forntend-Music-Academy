@@ -48,7 +48,7 @@ function FeaturedCourses() {
                 </div>
 
                 {/* CTA Button */}
-                <div className="text-start md:text-center py-10">
+                <div className="text-start md:text-center py-10 flex items-center justify-center">
                     <Link
                         href="/courses"
                         className="px-6 py-3 rounded-full border border-cyan-500 text-cyan-400 hover:bg-cyan-500 hover:text-slate-900 transition duration-200 font-medium"
